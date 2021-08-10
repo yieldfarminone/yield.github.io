@@ -1,2 +1,37 @@
-# yield.github.io
-Our pre-sale is live !  SafeBNB is an open and fast blockchain. Our mainnet runs Binance Smart Chain applications with 2-second transaction finality and 100 times lower fees.  SafeBNB’s secure bridges offer cross-chain asset transfers with Ethereum, Binance Smart chain and other chains. SafeBNB serves as a platform for creators to connect with their community. Try our showcase below – an NFT marketplace with collectibles from hundreds of artists.  AutoBoost is a one of a kind function that has been built into our contract. Some are familiar with buy back tokens, our token is not just another buy back token. SafeBNB AutoBoost function is built mathematically to do variable buybacks which adjust based on volume in order to maintain stability. AutoBoost will vary based on the transactions over the past 24 hours which will continue to adjust based on the volume. AutoBoost will buy back variable amounts every time a sale occurs with SafeBNB token. This is a one of a kind function which is more powerful than just a standard buyback token.  MIN: 0.05 BNB bsc MAX: 10 BNB bsc  TO PARTICIPATE, SEND BNB  TO THE SMART CONTRACT ADDRESS.  Your tokens will be sent automatically  Smart contract address:  0x825A20DA91Ef57B48A69850BDd1C33CdC54c4c07  Contract address :  0x6de1342df9d9329f16c9a973806ed81cfc734b5a  Don't send on contract address,send on smart contract address  Hard cap:800 BNB  Soft cap: 1500 BNB  Token information : https://bscscan.com/address/0x6de1342df9d9329f16c9a973806ed81cfc734b5a  Roadmap  Q2 2021 :Launch Token  Launch Token contract creation ,distribution  of $ Presale which is automatically after buying.  Q3 2021  Pre-sale and wallet dev.  Q4 2021  Listing on pancake and DODO exchanges  Smart Rewards Launched  Wallet finalization.  NFT Marketplace &amp; Launchpad
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/yieldfarminone/yield.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yieldfarminone/yield.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
